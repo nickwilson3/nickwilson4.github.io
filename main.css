@@ -19,3 +19,35 @@ p {
 #category2 {
     color: orange;
 }
+#category3 {
+    color: orange;
+}
+#references {
+    color:purple;
+}
+#category4 {
+    color: orange;
+}
+#category5 {
+    color: orange;
+}
+#category6 {
+    color: orange;
+}
+#category7 {
+    color: orange;
+}
+#category8 {
+    color: orange;
+}
+.question {
+    background-color: yellow;
+}
+.answer {
+    background-color: green;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: pink;
+    }
+  }
