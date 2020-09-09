@@ -1,5 +1,5 @@
 a {
-    color: green;
+    color: pink;
 }
 a:hover {
     background-color: pink;
@@ -13,3 +13,6 @@ p {
  #outfielders {
      color: orange;
  }
+#category1 {
+    color: orange;
+}
