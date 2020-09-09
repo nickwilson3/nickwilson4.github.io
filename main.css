@@ -1,5 +1,5 @@
 a {
-    color: pink;
+    color: blue;
 }
 a:hover {
     background-color: pink;
@@ -14,5 +14,8 @@ p {
      color: orange;
  }
 #category1 {
+    color: orange;
+}
+#category2 {
     color: orange;
 }
